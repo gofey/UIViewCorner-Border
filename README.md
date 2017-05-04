@@ -12,7 +12,7 @@
   
 效果图：
 
-[!images](http://ooy23086i.bkt.clouddn.com/cornerPicture@2x.png)
+![images](http://ooy23086i.bkt.clouddn.com/cornerPicture@2x.png)
 
 边框：
 
@@ -25,4 +25,4 @@
  
 效果图：
 
-[!images](http://ooy23086i.bkt.clouddn.com/cornerPicture@2x.png)
+![images](http://ooy23086i.bkt.clouddn.com/borderPic@2x.png)
